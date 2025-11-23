@@ -151,10 +151,12 @@
   </a>&nbsp;&nbsp;
 
   <!-- Portfolio (Globe Icon) -->
-  <a href="https://YOUR-PORTFOLIO-LINK-HERE">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetarchive.svg" height="48"/>
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://www.svgrepo.com/show/508699/global.svg" height="48" />
   </a>
+
 </p>
+
 
 ---
 
