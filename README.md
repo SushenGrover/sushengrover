@@ -140,7 +140,7 @@
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sushen-grover">
+  <a href="https://www.linkedin.com/in/sushen-grover-2b3314290/">
     <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" height="48"/>
   </a>&nbsp;&nbsp;
 
@@ -150,7 +150,7 @@
   </a>&nbsp;&nbsp;
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/sushen.grover/">
     <img src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" height="48"/>
   </a>&nbsp;&nbsp;
 
