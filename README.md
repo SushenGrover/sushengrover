@@ -141,17 +141,17 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sushen-grover">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" height="48"/>
   </a>&nbsp;&nbsp;
 
   <!-- GitHub -->
   <a href="https://github.com/SushenGrover">
-    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" height="48"/>
   </a>&nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+    <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" height="48"/>
   </a>&nbsp;&nbsp;
 
 <a href="https://sushengrover.onrender.com/">
