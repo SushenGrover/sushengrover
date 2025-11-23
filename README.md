@@ -137,7 +137,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sushen-grover-2b3314290/">
