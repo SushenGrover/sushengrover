@@ -151,7 +151,7 @@
   </a>&nbsp;&nbsp;
 
 <a href="YOUR_PORTFOLIO_URL">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/user.svg" height="48"/>
+  <img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
 </a>
 
 </p>
