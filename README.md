@@ -11,7 +11,7 @@
 💡 AI/ML, Full-Stack, Blockchain & Cloud enthusiast  
 ⚡ I build **scalable products**, **AI systems**, and **secure distributed apps**  
 🚀 Passionate about Generative AI, Explainable AI, Web3 & Cloud architectures  
-🔥 Hackathon performer — *multiple finalists & winners*
+🔥 Hackathon performer - *multiple finalists & winners*
 
 ---
 
@@ -139,11 +139,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sushen-grover">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://github.com/SushenGrover">
-    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+  </a>&nbsp;&nbsp;
+
+  <!-- Portfolio (Globe Icon) -->
+  <a href="https://YOUR-PORTFOLIO-LINK-HERE">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetarchive.svg" height="48"/>
+  </a>
 </p>
 
 ---
