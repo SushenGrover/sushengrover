@@ -146,13 +146,12 @@
     <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
     <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
   </a>&nbsp;&nbsp;
 
-  <!-- Portfolio (Globe Icon) -->
   <a href="YOUR_PORTFOLIO_LINK_HERE">
-    <img src="https://www.svgrepo.com/show/532515/globe.svg" height="48" />
+    <img src="https://www.svgrepo.com/show/521639/user-circle.svg" height="48"/>
   </a>
 </p>
 
