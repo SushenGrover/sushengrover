@@ -28,43 +28,32 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind" height="48" />
 </p>
 
-### AI / ML / GenAI
+### 🧠 AI / ML / GenAI
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48" />
-  
-  <!-- XGBoost -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/xgboost.svg" height="48"/>
-
-  <!-- scikit-learn -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="48"/>
-
-  <!-- GPT / OpenAI -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="48"/>
-
-  <!-- WatsonX -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_Watsonx_logo.svg" height="48"/>
-
-  <!-- FAISS -->
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/website/static/img/logo.svg" height="48"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-%230072C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-%23004B87?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-%23000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Watsonx-%230054A6?style=for-the-badge" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker" height="48"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
-
-  <!-- DynamoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazondynamodb.svg" height="48"/>
-
-  <!-- BigQuery -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlebigquery.svg" height="48"/>
-
-  <!-- SQLite -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sqlite.svg" height="48"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-%230052CC?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
