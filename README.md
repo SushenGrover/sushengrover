@@ -154,10 +154,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
   </a>&nbsp;&nbsp;
 
-  <!-- Portfolio (User icon - guaranteed working) -->
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/user.svg" height="48"/>
-  </a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://img.icons8.com/fluency/48/domain.png" height="48" alt="Portfolio"/>
+</a>
 
 </p>
 
