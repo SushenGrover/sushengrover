@@ -147,12 +147,12 @@
   <!-- GitHub -->
   <a href="https://github.com/SushenGrover">
     <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" height="48"/>
-  </a>&nbsp;
+  </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/sushen.grover/">
     <img src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" height="48"/>
-  </a>&nbsp;
+  </a>
 
 <a href="https://sushengrover.onrender.com/">
 <img src="https://img.icons8.com/?size=100&id=bLp8jngMI59L&format=png&color=000000" height="48" alt="Portfolio"/>
