@@ -17,21 +17,55 @@
 
 # 🛠 Tech Stack
 
-### **Languages**
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="48"/>
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="48"/> </p>
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind" height="48" />
+</p>
 
-### **Frameworks & Libraries**
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind" height="48"/> </p>
+### AI / ML / GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48" />
+  
+  <!-- XGBoost -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/xgboost.svg" height="48"/>
 
-### **AI / ML / GenAI**
-<p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" height="48" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" height="48"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/IBM_Watsonx_logo.svg" height="48"/> <img src="https://raw.githubusercontent.com/facebookresearch/faiss/master/faiss-logo.png" height="48"/> </p>
+  <!-- scikit-learn -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="48"/>
 
-### **Cloud & DevOps**
-<p> <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker" height="48"/> </p>
+  <!-- GPT / OpenAI -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="48"/>
 
-### **Databases**
-<p> <img src="https://skillicons.dev/icons?i=mysql" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazondynamodb.svg" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.svg" height="48"/> <img src="https://www.svgrepo.com/show/331760/sqlite.svg" height="48"/> </p>
+  <!-- WatsonX -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_Watsonx_logo.svg" height="48"/>
+
+  <!-- FAISS -->
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/website/static/img/logo.svg" height="48"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker" height="48"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48"/>
+
+  <!-- DynamoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazondynamodb.svg" height="48"/>
+
+  <!-- BigQuery -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlebigquery.svg" height="48"/>
+
+  <!-- SQLite -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sqlite.svg" height="48"/>
+</p>
 
 ---
 
