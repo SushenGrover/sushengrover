@@ -1,46 +1,139 @@
-<h1 align="center">Hi 👋, I'm Sushen Grover</h1>
-<h3 align="center">A passionate Computer Science student from VIT Chennai</h3>
-
----
-
-### 🚀 About Me
-- 🎓 CSE undergrad at **VIT Chennai**
-- 💻 Skilled in **Python, Java, C, C++, HTML, CSS**
-- 📊 Strong in **Data Analytics** (MySQL, R, Tableau)
-- 🤖 AI/ML enthusiast — working on **Document QA, XAI Healthcare, P2P Projects**
-- 🌱 Currently learning **Web Development & AI Systems**
-
----
-
-### 🔗 Connect with Me
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,react,git,github,linux,mysql,sqlite" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=800&color=00AEEF&center=true&vCenter=true&width=800&lines=Hi+I'm+Sushen+Grover;Full-Stack+Developer+%7C+AI+Engineer;Generative+AI+%7C+ML+%7C+Cloud+%7C+Blockchain;Building+scalable+systems+that+solve+real+problems" />
 </p>
 
 ---
 
-### 🏆 Achievements
-- 🥈 **Runner-up at VEGATHON (VEGA Processor Hackathon)**  
-- 🥇 Ranked **11/165** in solo competitive event  
-- 🚀 Built **P2P Vault**, a secure messaging & file-sharing app  
-- 📚 Worked on **Explainable AI for healthcare**
+# 👨‍💻 About Me
+
+🎓 CSE Undergrad @ **VIT Chennai**  
+💡 AI/ML, Full-Stack, Blockchain & Cloud enthusiast  
+⚡ I build **scalable products**, **AI systems**, and **secure distributed apps**  
+🚀 Passionate about Generative AI, Explainable AI, Web3 & Cloud architectures  
+🔥 Hackathon performer — *multiple finalists & winners*
 
 ---
 
-### 💡 Fun Fact  
-I love solving problems, building real-world systems, and learning something new every day!
+# 🛠 Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,r" />
+</p>
+
+### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind" />
+</p>
+
+### **AI / ML / GenAI**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
+  <b>XGBoost • SHAP • scikit-learn • RAG • GPT • Watsonx • FAISS</b>
+</p>
+
+### **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />  
+  <b>DynamoDB • BigQuery • SQLite</b>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 **VAAHAN – AWS-Based Vehicle Rental Platform**
+*A complete serverless vehicle-rental system using AWS Cloud*
+- Cognito, Lambda, API Gateway, DynamoDB, CloudFront  
+- Real-time booking + SNS notifications  
+- AI chatbot via IBM Watson  
+⭐ Full-stack, cloud-native masterpiece
+
+---
+
+### 🔹 **EnergySim Marketplace – Blockchain Energy & Carbon Credit Trading**
+*Decentralized marketplace for tokenized green energy*  
+- Solidity smart contracts (ETKN + CCT)  
+- React + Hardhat + Flask + Web3.py  
+- Real-time energy simulation & trading  
+⭐ Your best blockchain project
+
+---
+
+### 🔹 **Healytics – Patient Deterioration Predictor (AI + XAI)**
+*Predicts 90-day patient deterioration using XGBoost + SHAP*  
+- React dashboard with risk analytics  
+- SHAP explanations for actionable insights  
+⭐ Clean, industry-grade health AI system
+
+---
+
+### 🔹 **IntelliClause – Insurance Policy Q&A (HackRx 6.0)**
+*AI RAG system to answer complex insurance questions*  
+- FAISS retrieval + GPT-4o generation  
+- Handles PDFs, chunking, embeddings  
+⭐ Powerful GenAI + RAG pipeline
+
+---
+
+### 🔹 **P2P Vault – Encrypted P2P Chat & File Sharing**
+*Real-time end-to-end encrypted WebRTC system*  
+- AES-256 file encryption  
+- Socket.IO signaling  
+- Direct browser-to-browser transfer  
+⭐ Perfect CN course project
+
+---
+
+### 🔹 **Student Feedback Classifier – FLAN-T5 Zero-Shot GenAI**
+*Classifies student feedback into 10 categories*  
+- Zero-shot FLAN-T5  
+- Dataset of 500 entries  
+- Visual analytics + confusion matrix  
+⭐ Smooth GenAI + analytics implementation
+
+---
+
+# 🏆 Achievements
+
+🏅 **2nd Place** – *VEGATHON (Vega Processor Hackathon)*  
+🥇 **Rank 11 / 200+** – BITWARS 2.0 (Solo)  
+🔥 Built 400+ solutions on **LeetCode** (57% acceptance)  
+📜 IBM Watsonx GenAI Certified  
+📊 Google Data Analytics Professional Certified  
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SushenGrover&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushenGrover&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushenGrover&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushen-grover">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/SushenGrover">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>&nbsp;&nbsp;
+</p>
+
+---
+
+<p align="center"><b>⭐ Thanks for visiting — feel free to explore my repositories!</b></p>
