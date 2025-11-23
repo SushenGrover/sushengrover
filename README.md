@@ -138,23 +138,29 @@
 # 🌐 Connect With Me
 
 <p align="center">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sushen-grover">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>&nbsp;&nbsp;
 
+  <!-- GitHub -->
   <a href="https://github.com/SushenGrover">
     <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM">
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
     <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
   </a>&nbsp;&nbsp;
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="./node_modules/super-tiny-icons/images/svg/github.svg" />
-</a>
+  <!-- Portfolio (User icon - guaranteed working) -->
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/user.svg" height="48"/>
+  </a>
 
 </p>
+
 
 
 ---
