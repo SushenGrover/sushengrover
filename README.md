@@ -18,31 +18,20 @@
 # 🛠 Tech Stack
 
 ### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,r" />
-</p>
+
+<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" height="48"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="48"/> </p>
 
 ### **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind" height="48"/> </p>
 
 ### **AI / ML / GenAI**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />  
-  <b>XGBoost • SHAP • scikit-learn • RAG • GPT • Watsonx • FAISS</b>
-</p>
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" height="48" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" height="48"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/IBM_Watsonx_logo.svg" height="48"/> <img src="https://raw.githubusercontent.com/facebookresearch/faiss/master/faiss-logo.png" height="48"/> </p>
 
 ### **Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker" height="48"/> </p>
 
 ### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />  
-  <b>DynamoDB • BigQuery • SQLite</b>
-</p>
+<p> <img src="https://skillicons.dev/icons?i=mysql" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazondynamodb.svg" height="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.svg" height="48"/> <img src="https://www.svgrepo.com/show/331760/sqlite.svg" height="48"/> </p>
 
 ---
 
