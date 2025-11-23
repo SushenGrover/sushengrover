@@ -152,9 +152,8 @@
 
   <!-- Portfolio (Globe Icon) -->
   <a href="YOUR_PORTFOLIO_LINK_HERE">
-    <img src="https://www.svgrepo.com/show/508699/global.svg" height="48" />
+    <img src="https://www.svgrepo.com/show/532515/globe.svg" height="48" />
   </a>
-
 </p>
 
 
