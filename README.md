@@ -155,7 +155,7 @@
   </a>&nbsp;&nbsp;
 
 <a href="https://sushengrover.onrender.com/">
-<img src="https://img.icons8.com/fluency/48/domain.png" height="48" alt="Portfolio"/>
+<img src="https://img.icons8.com/?size=100&id=1UJmaH1iTVLk&format=png&color=000000" height="48" alt="Portfolio"/>
 </a>
 
 </p>
