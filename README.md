@@ -138,30 +138,22 @@
 # 🌐 Connect With Me
 
 <p>
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sushen-grover-2b3314290/">
     <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" height="48"/>
-  </a>&nbsp;
-
-  <!-- GitHub -->
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/SushenGrover">
     <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" height="48"/>
-  </a>
-
-  <!-- Instagram -->
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/sushen.grover/">
     <img src="https://img.icons8.com/?size=100&id=TEYr8ETaIfBJ&format=png&color=000000" height="48"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://sushengrover.onrender.com/">
+    <img src="https://img.icons8.com/?size=100&id=bLp8jngMI59L&format=png&color=000000" height="48" alt="Portfolio"/>
   </a>
-
-<a href="https://sushengrover.onrender.com/">
-<img src="https://img.icons8.com/?size=100&id=bLp8jngMI59L&format=png&color=000000" height="48" alt="Portfolio"/>
-</a>
-
 </p>
 
 
 
 ---
 
-<p align="center"><b>⭐ Thanks for visiting — feel free to explore my repositories!</b></p>
+<p align="center"><b>⭐ Thanks for visiting - feel free to explore my repositories!</b></p>
