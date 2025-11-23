@@ -150,9 +150,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
   </a>&nbsp;&nbsp;
 
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
-    <img src="https://www.svgrepo.com/show/521639/user-circle.svg" height="48"/>
-  </a>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/user.svg" height="48"/>
+</a>
+
 </p>
 
 
